@@ -1,6 +1,6 @@
 # Bright Data 的美国代理
 
-[![促销](https://github.com/bright-cn/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo.png)](https://www.bright.cn/locations/united-states)
+[![促销](https://github.com/bright-cn/Rotating-Residential-Proxies/blob/main/50%25%20off%20promo%20(1).png)](https://www.bright.cn/locations/united-states)
 
 ## 概览
 通过 Bright Data 的[美国代理](https://www.bright.cn/locations/united-states)，体验流畅的抓取能力，获得精准定向、极致稳定性与快速响应。从美国境内开始抓取网站，不再被封锁。
